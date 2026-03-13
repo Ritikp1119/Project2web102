@@ -1,0 +1,10 @@
+export const cards = [{ question: "What is the best gaming pc?", answer: "Alienware Aurora R15"},
+    { question: "What cpu is good for gaming?", answer: "AMD Ryzen 7 7800X3D"},
+    { question: "What is a good gpu for gaming?", answer: "NVIDIA GeForce RTX 4090"},
+    { question: "What is the best liquid cooler for gaming pc?", answer: "NZXT Kraken Z73"},
+    { question: "Which is the good gaming mouse?", answer: "Logitech G Pro X Superlight"},
+    { question: "What is the best memory for gaming PC?", answer: "Corsair Vengeance RGB Pro DDR4 32GB"},
+    { question: "What is the best keyboard for gaming?", answer: "Razer Huntsman V2 Analog"},
+    { question: "What is the best gaming motherboard?", answer: "ASUS ROG Maximus Z790 Hero"},
+    { question: "What is the best power supply for gaming PC?", answer: "Corsair RM850x"},
+    { question: "What is the best gaming monitor?", answer: "ASUS ProArt Display PA329Q"},];

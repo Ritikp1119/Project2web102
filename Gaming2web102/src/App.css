@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+.Flashcard {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  color: #a2cb88;
+  border-radius: 12px;
+  padding: 1rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1.3rem;
+  cursor: pointer;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: transform 0.25s ease;
+}
+
+.Flashcard:hover {
+  transform: scale(1.03);
+}
+
+
+button {
+  background-color: #f9c841;
+  color: #003366;
+  border: none;
+  padding: 1.4rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #eab72c;
+}
