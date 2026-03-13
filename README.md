@@ -53,7 +53,7 @@ GIF created with LiceCap ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had difficulties with the vs code with the gift connectio as well as and the syntax for React within CSS 
+I had difficulties with the vs code and the github connection as well as and the syntax for React within CSS 
 
 ## License
 
